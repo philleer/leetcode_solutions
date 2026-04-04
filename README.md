@@ -15,4 +15,12 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/philleer/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/philleer/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/philleer/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
