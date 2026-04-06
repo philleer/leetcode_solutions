@@ -24,6 +24,7 @@ Program solutions for leetcode problems
 | [0035-search-insert-position](https://github.com/philleer/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/philleer/leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/philleer/leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,5 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/philleer/leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
