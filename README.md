@@ -26,6 +26,7 @@ Program solutions for leetcode problems
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/philleer/leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/philleer/leetcode_solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/philleer/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/philleer/leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0041-first-missing-positive](https://github.com/philleer/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
