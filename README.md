@@ -8,6 +8,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/philleer/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/philleer/leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,12 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/philleer/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
