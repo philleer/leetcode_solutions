@@ -37,6 +37,7 @@ Program solutions for leetcode problems
 | [0045-jump-game-ii](https://github.com/philleer/leetcode_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/philleer/leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/philleer/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/philleer/leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/philleer/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/philleer/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
