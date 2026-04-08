@@ -36,6 +36,7 @@ Program solutions for leetcode problems
 | [0042-trapping-rain-water](https://github.com/philleer/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/philleer/leetcode_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/philleer/leetcode_solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Program solutions for leetcode problems
 | [0039-combination-sum](https://github.com/philleer/leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/philleer/leetcode_solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/philleer/leetcode_solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,8 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/philleer/leetcode_solutions/tree/main/0044-wildcard-matching/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
