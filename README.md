@@ -80,6 +80,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/philleer/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/philleer/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/philleer/leetcode_solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/philleer/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
