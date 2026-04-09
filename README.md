@@ -10,6 +10,7 @@ Program solutions for leetcode problems
 | [0038-count-and-say](https://github.com/philleer/leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/philleer/leetcode_solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Program solutions for leetcode problems
 | [0046-permutations](https://github.com/philleer/leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/philleer/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Program solutions for leetcode problems
 | [0036-valid-sudoku](https://github.com/philleer/leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/philleer/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +97,5 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
