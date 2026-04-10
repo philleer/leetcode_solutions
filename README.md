@@ -19,6 +19,7 @@ Program solutions for leetcode problems
 | [0044-wildcard-matching](https://github.com/philleer/leetcode_solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/philleer/leetcode_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/philleer/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/philleer/leetcode_solutions/tree/main/0055-jump-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Program solutions for leetcode problems
 | [0051-n-queens](https://github.com/philleer/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/philleer/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/philleer/leetcode_solutions/tree/main/0055-jump-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/philleer/leetcode_solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/philleer/leetcode_solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/philleer/leetcode_solutions/tree/main/0055-jump-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
