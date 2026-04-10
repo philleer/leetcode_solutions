@@ -43,6 +43,7 @@ Program solutions for leetcode problems
 | [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/philleer/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/philleer/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Program solutions for leetcode problems
 | [0036-valid-sudoku](https://github.com/philleer/leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/philleer/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
