@@ -46,6 +46,7 @@ Program solutions for leetcode problems
 | [0053-maximum-subarray](https://github.com/philleer/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/philleer/leetcode_solutions/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/philleer/leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/philleer/leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
