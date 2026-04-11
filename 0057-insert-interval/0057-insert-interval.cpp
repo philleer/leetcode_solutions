@@ -7,11 +7,15 @@ public:
         std::vector<std::vector<int>> results;
         int i = 0;
         for (; i < sz; i++) {
-            if (intervals[i][0] >= newInterval[0]) break;
+            if (intervals[i][1] >= newInterval[0]) break;
 
             results.push_back(intervals[i]);
         }
-        intervals.insert(intervals.begin() + i, newInterval);
+        if (i < sz && intervals[i][0] < newInterval[0]) {
+            intervals.insert(intervals.begin() + i + 1, newInterval);
+        } else {
+            intervals.insert(intervals.begin() + i, newInterval);
+        }
 
         int left = intervals[i][0];
         int right = intervals[i][1];
