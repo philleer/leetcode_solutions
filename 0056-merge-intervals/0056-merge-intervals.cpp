@@ -9,25 +9,17 @@ public:
             return ((a[0] != b[0]) ? (a[0] < b[0]) : (a[1] < b[1]));
         });
 
-        int left = INT_MAX;
-        int right = INT_MIN;
+        int left = intervals[0][0];
+        int right = intervals[0][1];
         std::vector<std::vector<int>> results;
-        for (int i = 0; i < sz; i++) {
+        for (int i = 1; i < sz; i++) {
             if (intervals[i][1] <= right) continue;
-            if (intervals[i][0] < left || intervals[i][0] > right) {
+            if (intervals[i][0] > right) {
+                results.emplace_back(std::vector<int>({left, right}));
                 left = intervals[i][0];
-            }
-            if (intervals[i][1] > right || intervals[i][0] > right) {
                 right = intervals[i][1];
-            }
-            for (int j = i + 1; j < sz; j++) {
-                if (intervals[j][1] <= left) continue;
-                if (intervals[j][0] <= right) {
-                    right = std::max(intervals[j][1], right);
-                } else {
-                    results.emplace_back(std::vector<int>({left, right}));
-                    break;
-                }
+            } else if (intervals[i][1] > right) {
+                right = intervals[i][1];
             }
         }
         if ((!results.empty() && (results.back()[0] != left || results.back()[1] != right)) ||
