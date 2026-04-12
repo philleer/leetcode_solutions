@@ -12,11 +12,9 @@ public:
             if (used[i]) continue;
 
             used[i] = true;
-            path += std::to_string(i);
-            std::string tmp = permutation(n, k, cnt, used, path, done);
+            std::string tmp = permutation(n, k, cnt, used, path + std::to_string(i), done);
             if (done) return tmp;
             used[i] = false;
-            path.pop_back();
         }
 
         return path;
