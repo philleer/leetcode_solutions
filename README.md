@@ -85,6 +85,7 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/philleer/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,8 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/philleer/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
