@@ -21,6 +21,7 @@ Program solutions for leetcode problems
 | [0045-jump-game-ii](https://github.com/philleer/leetcode_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/philleer/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/philleer/leetcode_solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/philleer/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Program solutions for leetcode problems
 | [0048-rotate-image](https://github.com/philleer/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/philleer/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/philleer/leetcode_solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/philleer/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,8 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/philleer/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
