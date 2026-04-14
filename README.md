@@ -63,6 +63,7 @@ Program solutions for leetcode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/philleer/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/philleer/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/philleer/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/philleer/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Program solutions for leetcode problems
 | [0062-unique-paths](https://github.com/philleer/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/philleer/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/philleer/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
