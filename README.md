@@ -55,6 +55,7 @@ Program solutions for leetcode problems
 | [0059-spiral-matrix-ii](https://github.com/philleer/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/philleer/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/philleer/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/philleer/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Program solutions for leetcode problems
 | [0050-powx-n](https://github.com/philleer/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/philleer/leetcode_solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/philleer/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/philleer/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
