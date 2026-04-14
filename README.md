@@ -12,6 +12,7 @@ Program solutions for leetcode problems
 | [0044-wildcard-matching](https://github.com/philleer/leetcode_solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/philleer/leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,12 +108,14 @@ Program solutions for leetcode problems
 | [0060-permutation-sequence](https://github.com/philleer/leetcode_solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/philleer/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/philleer/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/philleer/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/philleer/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +146,8 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/philleer/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
