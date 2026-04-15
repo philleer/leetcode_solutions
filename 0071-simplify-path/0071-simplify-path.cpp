@@ -10,21 +10,17 @@ public:
         for (int i = 0; i < slen; i++) {
             if (i > 0 && path[i - 1] == '/' && path[i] == '/') continue;
 
+            bool verified = false;
             if (path[i] != '/') {
                 cur_str += path[i];
-                if (i == slen - 1) {
-                    sstr.push(cur_str);
-                    cur_str.clear();
-                }
+                verified = (i == slen - 1);
             } else if (path[i] == '/' && !cur_str.empty()) {
-                if (cur_str == ".") {
-                    cur_str.clear();
-                    continue;
-                }
-                if (cur_str == "..") {
-                    if (!sstr.empty()) {
-                        sstr.pop();
-                    }
+                verified = true;
+            }
+
+            if (verified) {
+                if (cur_str == "." || cur_str == "..") {
+                    if (cur_str == ".." && !sstr.empty()) sstr.pop();
                     cur_str.clear();
                     continue;
                 }
@@ -39,15 +35,14 @@ public:
         while (!sstr.empty()) {
             cur_str = sstr.top();
             sstr.pop();
-            if (cur_str == ".") continue;
-            if (cur_str == "..") {
-                if (!sstr.empty()) {
-                    sstr.pop();
-                } else {
-                    result = "/" + result;
-                }   
-                continue;
-            }
+            // if (cur_str == "..") {
+            //     if (!sstr.empty()) {
+            //         sstr.pop();
+            //     } else {
+            //         result = "/" + result;
+            //     }   
+            //     continue;
+            // }
             
             result = "/" + cur_str + result;
         }
