@@ -33,20 +33,9 @@ public:
 
         std::string result;
         while (!sstr.empty()) {
-            cur_str = sstr.top();
-            sstr.pop();
-            // if (cur_str == "..") {
-            //     if (!sstr.empty()) {
-            //         sstr.pop();
-            //     } else {
-            //         result = "/" + result;
-            //     }   
-            //     continue;
-            // }
-            
+            cur_str = sstr.top(); sstr.pop();
             result = "/" + cur_str + result;
         }
-        if (result.empty()) return "/";
 
         return result;
     }
