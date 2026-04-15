@@ -16,6 +16,7 @@ Program solutions for leetcode problems
 | [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/philleer/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/philleer/leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Program solutions for leetcode problems
 | [0064-minimum-path-sum](https://github.com/philleer/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/philleer/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/philleer/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
