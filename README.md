@@ -64,6 +64,7 @@ Program solutions for leetcode problems
 | [0064-minimum-path-sum](https://github.com/philleer/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/philleer/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/philleer/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ Program solutions for leetcode problems
 | [0037-sudoku-solver](https://github.com/philleer/leetcode_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/philleer/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Program solutions for leetcode problems
 | [0059-spiral-matrix-ii](https://github.com/philleer/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/philleer/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/philleer/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
