@@ -15,6 +15,7 @@ Program solutions for leetcode problems
 | [0065-valid-number](https://github.com/philleer/leetcode_solutions/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/philleer/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/philleer/leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/philleer/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/philleer/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/philleer/leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
