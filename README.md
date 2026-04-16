@@ -69,6 +69,7 @@ Program solutions for leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Program solutions for leetcode problems
 | [0035-search-insert-position](https://github.com/philleer/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/philleer/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ Program solutions for leetcode problems
 | [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/philleer/leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
