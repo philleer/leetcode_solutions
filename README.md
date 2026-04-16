@@ -66,6 +66,7 @@ Program solutions for leetcode problems
 | [0068-text-justification](https://github.com/philleer/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/philleer/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ Program solutions for leetcode problems
 | [0047-permutations-ii](https://github.com/philleer/leetcode_solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/philleer/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/philleer/leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
