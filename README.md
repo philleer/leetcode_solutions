@@ -68,6 +68,7 @@ Program solutions for leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/philleer/leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/philleer/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -114,6 +115,7 @@ Program solutions for leetcode problems
 | [0051-n-queens](https://github.com/philleer/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/philleer/leetcode_solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/philleer/leetcode_solutions/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/philleer/leetcode_solutions/tree/main/0078-subsets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/philleer/leetcode_solutions/tree/main/0078-subsets/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
