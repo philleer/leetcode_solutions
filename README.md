@@ -70,6 +70,7 @@ Program solutions for leetcode problems
 | [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/philleer/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Program solutions for leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/philleer/leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/philleer/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ Program solutions for leetcode problems
 | [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/philleer/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/philleer/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/philleer/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
