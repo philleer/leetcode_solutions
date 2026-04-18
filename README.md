@@ -139,6 +139,7 @@ Program solutions for leetcode problems
 | [0069-sqrtx](https://github.com/philleer/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/philleer/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/philleer/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/philleer/leetcode_solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
