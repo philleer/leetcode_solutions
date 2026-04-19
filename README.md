@@ -181,6 +181,7 @@ Program solutions for leetcode problems
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/philleer/leetcode_solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/philleer/leetcode_solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
