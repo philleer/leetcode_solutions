@@ -15,7 +15,6 @@ public:
 
         ListNode *node = head;
         ListNode *next = head->next;
-        int last_val = node->val;
         while (next) {
             if (node->val == next->val) {
                 node->next = next->next;
