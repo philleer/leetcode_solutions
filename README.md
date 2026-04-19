@@ -126,6 +126,7 @@ Program solutions for leetcode problems
 | [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/philleer/leetcode_solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/philleer/leetcode_solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
