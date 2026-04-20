@@ -18,6 +18,7 @@ Program solutions for leetcode problems
 | [0071-simplify-path](https://github.com/philleer/leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/philleer/leetcode_solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/philleer/leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Program solutions for leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/philleer/leetcode_solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/philleer/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -111,6 +113,7 @@ Program solutions for leetcode problems
 | [0064-minimum-path-sum](https://github.com/philleer/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/philleer/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/philleer/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@ Program solutions for leetcode problems
 | [0052-n-queens-ii](https://github.com/philleer/leetcode_solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/philleer/leetcode_solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/philleer/leetcode_solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +208,8 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/philleer/leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
