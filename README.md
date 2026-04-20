@@ -16,6 +16,7 @@ Program solutions for leetcode problems
 | [0067-add-binary](https://github.com/philleer/leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/philleer/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/philleer/leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/philleer/leetcode_solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/philleer/leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ Program solutions for leetcode problems
 | [0063-unique-paths-ii](https://github.com/philleer/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/philleer/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/philleer/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/philleer/leetcode_solutions/tree/main/0072-edit-distance/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
