@@ -76,6 +76,7 @@ Program solutions for leetcode problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/philleer/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/philleer/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/philleer/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -168,6 +169,7 @@ Program solutions for leetcode problems
 | [0044-wildcard-matching](https://github.com/philleer/leetcode_solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/philleer/leetcode_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/philleer/leetcode_solutions/tree/main/0055-jump-game/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/philleer/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
