@@ -136,6 +136,7 @@ Program solutions for leetcode problems
 | [0075-sort-colors](https://github.com/philleer/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/philleer/leetcode_solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/philleer/leetcode_solutions/tree/main/0086-partition-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/philleer/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ Program solutions for leetcode problems
 | [0061-rotate-list](https://github.com/philleer/leetcode_solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/philleer/leetcode_solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/philleer/leetcode_solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/philleer/leetcode_solutions/tree/main/0086-partition-list/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
