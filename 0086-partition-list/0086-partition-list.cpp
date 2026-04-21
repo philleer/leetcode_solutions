@@ -22,11 +22,9 @@ public:
             if (cur->val < x) {
                 pre->next = cur;
                 pre = pre->next;
-                // std::cout << "pre->val = " << pre->val << std::endl;
             } else {
                 sub->next = cur;
                 sub = sub->next;
-                std::cout << "sub->val = " << sub->val << std::endl;
             }
             cur = cur->next;
         }
