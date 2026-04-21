@@ -31,7 +31,7 @@ public:
             cur = cur->next;
         }
         sub->next = nullptr;
-        if (pre && dummy) pre->next = dummy->next;
+        pre->next = dummy->next;
 
         return new_head->next;
     }
