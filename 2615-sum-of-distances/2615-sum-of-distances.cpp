@@ -2,12 +2,10 @@ class Solution {
 public:
     vector<long long> distance(vector<int>& nums) {
         if (nums.empty()) return {};
-        int sz = nums.size();
 
+        int sz = nums.size();
         std::unordered_map<int, std::vector<int>> umap;
-        for (int i = 0; i < sz; i++) {
-            umap[nums[i]].push_back(i);
-        }
+        for (int i = 0; i < sz; i++) umap[nums[i]].push_back(i);
         if (umap.size() == sz) return std::vector<long long>(sz, 0);
 
         std::vector<long long> res(sz, 0);
@@ -28,15 +26,6 @@ public:
                 long long idx = vec[j];
                 res[idx] = vsz * idx - total_sum + 2 * (sums[j] - (vsz - j) * idx);
             }
-
-            // for (int j = 0; j < vec.size(); j++) {
-            //     long long sum = 0;
-            //     for (int k = 0; k < vec.size(); k++) {
-            //         if (k == j) continue;
-            //         sum += std::abs(vec[j] - vec[k]);
-            //     }
-            //     res[vec[j]] = sum;
-            // }
         }
 
         return res;
