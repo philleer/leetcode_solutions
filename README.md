@@ -19,6 +19,7 @@ Program solutions for leetcode problems
 | [0072-edit-distance](https://github.com/philleer/leetcode_solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/philleer/leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/philleer/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Program solutions for leetcode problems
 | [0088-merge-sorted-array](https://github.com/philleer/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/philleer/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/philleer/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/philleer/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/philleer/leetcode_solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/philleer/leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -225,4 +227,8 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2615-sum-of-distances](https://github.com/philleer/leetcode_solutions/tree/main/2615-sum-of-distances/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/philleer/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
