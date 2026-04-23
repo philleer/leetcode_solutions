@@ -77,6 +77,7 @@ Program solutions for leetcode problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/philleer/leetcode_solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/philleer/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/philleer/leetcode_solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/philleer/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/philleer/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/philleer/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
