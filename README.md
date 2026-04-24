@@ -19,6 +19,7 @@ Program solutions for leetcode problems
 | [0072-edit-distance](https://github.com/philleer/leetcode_solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/philleer/leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/philleer/leetcode_solutions/tree/main/0091-decode-ways/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/philleer/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/philleer/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/philleer/leetcode_solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -36,6 +37,7 @@ Program solutions for leetcode problems
 | [0064-minimum-path-sum](https://github.com/philleer/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/philleer/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/philleer/leetcode_solutions/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/philleer/leetcode_solutions/tree/main/0091-decode-ways/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
