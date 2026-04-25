@@ -44,6 +44,7 @@ Program solutions for leetcode problems
 | [0032-longest-valid-parentheses](https://github.com/philleer/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/philleer/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/philleer/leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/philleer/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/philleer/leetcode_solutions/tree/main/0079-word-search/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/philleer/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +245,12 @@ Program solutions for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/philleer/leetcode_solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/philleer/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/philleer/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
